@@ -1,6 +1,6 @@
 # Team004-Pandas
 Game Data for Developers - Team Pandas <br>
-Web Link -> 35.208.81.203 <br>
+Web Link -> 35.208.81.203(not working any more GCP hosting ran out of credits) <br>
 
 ## Video Link and Project Report
 Video Link -> https://drive.google.com/file/d/1rIiSC78lc8PRQZgO13lV7QoCswjsER4L/view?usp=drive_link <br>
